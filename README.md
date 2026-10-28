@@ -22,7 +22,7 @@ Transformo dados em decisões. Tenho experiência com análise de dados, operaç
 | [catalogo-vendas](https://github.com/Allem-creator/software_vendas.git) | Catálogo e painel de vendas de roupas | Web, PostgreSQL (Neon), Vercel |
 | [dashboards-power-bi](https://github.com/SEU-USUARIO/dashboards-power-bi) | Dashboards de indicadores com prints e arquivos .pbix | Power BI, DAX |
 | [consultas-sql](https://github.com/Allem-creator/consultas-sql.git) | Consultas SQL para análise de vendas, faturamento e finanças | SQL |
-| [extracao-de-dados](https://github.com/SEU-USUARIO/extracao-de-dados) | Scripts de extração e tratamento de dados (versão anonimizada) | SQL, Python |
+| [extracao-de-dados](https://github.com/Allem-creator/projeto_XM.git) | Scripts de extração e tratamento de dados (versão anonimizada) | SQL, Python |
 
 ## 📫 Contato
 
