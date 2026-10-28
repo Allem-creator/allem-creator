@@ -18,7 +18,7 @@ Transformo dados em decisões. Tenho experiência com análise de dados, operaç
 
 | Projeto | Descrição | Ferramentas |
 |---|---|---|
-| [painel-financeiro](https://github.com/SEU-USUARIO/painel-financeiro) | Painel de finanças online: receitas, despesas e eventos | HTML, JavaScript, PostgreSQL (Neon), Vercel |
+| [painel-financeiro](https://github.com/Allem-creator/projeto-financas.git) | Painel de finanças online: receitas, despesas e eventos | HTML, JavaScript, PostgreSQL (Neon), Vercel |
 | [catalogo-vendas](https://github.com/SEU-USUARIO/catalogo-vendas) | Catálogo e painel de vendas de roupas | Web, PostgreSQL (Neon), Vercel |
 | [dashboards-power-bi](https://github.com/SEU-USUARIO/dashboards-power-bi) | Dashboards de indicadores com prints e arquivos .pbix | Power BI, DAX |
 | [consultas-sql](https://github.com/Allem-creator/consultas-sql.git) | Consultas SQL para análise de vendas, faturamento e finanças | SQL |
