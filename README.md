@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**Allem-creator/allem-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados** | Contagem, MG – Brasil
+Estudante de Análise e Desenvolvimento de Sistemas (Newton Paiva)
 
-Here are some ideas to get you started:
+Transformo dados em decisões. Tenho experiência com análise de dados, operações fiscais/faturamento e sistemas ERP, e busco atuar como **Analista de Dados**, **Assistente de Dados** ou **Assistente de Banco de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📊 Projetos
+
+| Projeto | Descrição | Ferramentas |
+|---|---|---|
+| [painel-financeiro](https://github.com/SEU-USUARIO/painel-financeiro) | Painel de finanças online: receitas, despesas e eventos | HTML, JavaScript, PostgreSQL (Neon), Vercel |
+| [catalogo-vendas](https://github.com/SEU-USUARIO/catalogo-vendas) | Catálogo e painel de vendas de roupas | Web, PostgreSQL (Neon), Vercel |
+| [dashboards-power-bi](https://github.com/SEU-USUARIO/dashboards-power-bi) | Dashboards de indicadores com prints e arquivos .pbix | Power BI, DAX |
+| [consultas-sql](https://github.com/SEU-USUARIO/consultas-sql) | Consultas SQL para análise de vendas, faturamento e finanças | SQL |
+| [extracao-de-dados](https://github.com/SEU-USUARIO/extracao-de-dados) | Scripts de extração e tratamento de dados (versão anonimizada) | SQL, Python |
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/gabriel-almeida-09ba361a3
+- E-mail: gabriel.almeida@icloud.com
