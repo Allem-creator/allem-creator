@@ -13,6 +13,7 @@ Transformo dados em decisões. Tenho experiência com análise de dados, operaç
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ## 📊 Projetos
 
@@ -23,6 +24,7 @@ Transformo dados em decisões. Tenho experiência com análise de dados, operaç
 | [dashboards-power-bi](https://github.com/SEU-USUARIO/dashboards-power-bi) | Dashboards de indicadores com prints e arquivos .pbix | Power BI, DAX |
 | [consultas-sql](https://github.com/Allem-creator/consultas-sql.git) | Consultas SQL para análise de vendas, faturamento e finanças | SQL |
 | [extracao-de-dados](https://github.com/Allem-creator/projeto_XM.git) | Scripts de extração e tratamento de dados (versão anonimizada) | SQL, Python |
+| [super-trunfo-c](https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-Allem-creator.git) | Meu primeiro projeto da faculdade: jogo Super Trunfo em linguagem C | C |
 
 ## 📫 Contato
 
